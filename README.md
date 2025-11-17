@@ -135,9 +135,17 @@ VOICE_AGENT_PROJECT/
 
 ## 🧑‍💻 Developer Credits
 
-- **Lead Developer:** _Your Name_
-- **Contributors:** _List others if any_
-- **Special Thanks:** [VAPI](https://vapi.ai/), [Ollama](https://ollama.com/), [n8n](https://n8n.io/)
+## 🏅 Special Thanks
+
+- **[Ollama](https://ollama.com/)** — Local LLM for instant conversation
+- **[gTTS](https://pypi.org/project/gTTS/)** — Google Text-to-Speech Python library
+- **[VAPI](https://vapi.ai/)** — Voice AI agent for conversational interface
+- **[n8n](https://n8n.io/)** — Automation/workflow engine
+- **[REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)** — Backend API integration
+- **[Flask](https://flask.palletsprojects.com/)** — Python web framework/dashboard
+- **[Whisper AI](https://github.com/openai/whisper)** — ASR and audio transcription
+- **[google-auth](https://pypi.org/project/google-auth/)** — Secure Google API/OAuth integration
+- **Natural Language Processing (NLP)** — All underlying language understanding/runtime
 
 ---
 
