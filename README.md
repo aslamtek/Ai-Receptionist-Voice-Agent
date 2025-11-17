@@ -1,15 +1,32 @@
- <div align="center">
-   
-# 🚀 Voice Agent AI Receptionist: Conversational Booking & Automation Suite
+<div align="center">
 
-A modern AI-powered appointment receptionist and scheduler with full voice/chat dashboard, real-time Google Calendar integration, n8n workflow automation, live email notifications, and seamless VAPI voice calling.
+# 🚀 Voice Agent AI Receptionist  
+*A Modern Conversational Booking & Automation Suite*
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
 
 ---
 
+## 📑 Table of Contents
+
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [Problem Statement](#problem-statement)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Quick Start](#quick-start)
+- [Core Technologies](#core-technologies)
+- [How It Works](#how-it-works)
+- [Developer Credits](#developer-credits)
+- [License](#license)
+
 ## 🌐 Live Demo
 
-[<!-- If deploying, add DEMO link here or keep as code-only -->](https://691afb20b1ea8400082e31d5--shimmering-semolina-601af8.netlify.app/)
-
+[Demo Site](https://691afb20b1ea8400082e31d5--shimmering-semolina-601af8.netlify.app/)
 ---
 
 ## 📸 Screenshots
@@ -18,6 +35,11 @@ A modern AI-powered appointment receptionist and scheduler with full voice/chat 
   <img width="1142" height="978" alt="image" src="https://github.com/user-attachments/assets/397f0069-626a-4cee-847b-e78c02c20db6" />
 
   *Beautiful conversational UI with live transcripts, statistics, and floating VAPI widget.*
+  
+- **VAPI Voice Call in Action:**  
+  <img width="1606" height="1062" alt="image" src="https://github.com/user-attachments/assets/cbec6955-9f40-4335-8a62-77055eb63157" />
+
+  *Realtime AI call for seamless hands-free scheduling.*
 
 - **n8n Automation Workflow:**  
  <img width="1357" height="553" alt="image" src="https://github.com/user-attachments/assets/e431daaa-8f17-4b23-9edd-b96ff1147fad" />
@@ -34,12 +56,6 @@ A modern AI-powered appointment receptionist and scheduler with full voice/chat 
 
   *Event marked directly via AI voice agent.*
 
-- **VAPI Voice Call in Action:**  
-  <img width="1606" height="1062" alt="image" src="https://github.com/user-attachments/assets/cbec6955-9f40-4335-8a62-77055eb63157" />
-
-  *Realtime AI call for seamless hands-free scheduling.*
-
-> _Replace the image URLs/paths above with your real screenshot filenames once uploaded to your GitHub repository’s `/screenshots` folder._
 
 ---
 
