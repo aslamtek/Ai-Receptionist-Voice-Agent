@@ -6,30 +6,35 @@ A modern AI-powered appointment receptionist and scheduler with full voice/chat 
 
 ## 🌐 Live Demo
 
-<!-- If deploying, add DEMO link here or keep as code-only -->
+[<!-- If deploying, add DEMO link here or keep as code-only -->](https://691afb20b1ea8400082e31d5--shimmering-semolina-601af8.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
 - **Dashboard Overview:**  
-  ![dashboard](screenshots/dashboard.png)
+  <img width="1142" height="978" alt="image" src="https://github.com/user-attachments/assets/397f0069-626a-4cee-847b-e78c02c20db6" />
+
   *Beautiful conversational UI with live transcripts, statistics, and floating VAPI widget.*
 
 - **n8n Automation Workflow:**  
-  ![n8n workflow](screenshots/n8n-workflow.png)
+ <img width="1357" height="553" alt="image" src="https://github.com/user-attachments/assets/e431daaa-8f17-4b23-9edd-b96ff1147fad" />
+
   *Pipeline triggers for email/send and event marking.*
 
 - **Booking Confirmation Email:**  
-  ![Gmail Email](screenshots/email.png)
+  ![WhatsApp Image 2025-11-17 at 23 49 56_6d7a9761](https://github.com/user-attachments/assets/6b4d026f-1e00-48a2-b0ef-5bbe3fad93c1)
+
   *Automated Gmail confirmation of successful appointment.*
 
 - **Google Calendar Appointment:**  
-  ![Google Calendar](screenshots/calendar.png)
+  <img width="815" height="671" alt="image" src="https://github.com/user-attachments/assets/71aa1cb7-41c1-45aa-84cc-8eb1ac409682" />
+
   *Event marked directly via AI voice agent.*
 
 - **VAPI Voice Call in Action:**  
-  ![VAPI Calling](screenshots/vapi-call.png)
+  <img width="1606" height="1062" alt="image" src="https://github.com/user-attachments/assets/cbec6955-9f40-4335-8a62-77055eb63157" />
+
   *Realtime AI call for seamless hands-free scheduling.*
 
 > _Replace the image URLs/paths above with your real screenshot filenames once uploaded to your GitHub repository’s `/screenshots` folder._
