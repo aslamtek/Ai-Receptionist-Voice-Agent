@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Environments
+venv/
+env/
+ENV/
+# Jupyter
+.ipynb_checkpoints/
+# Data / Models / Audio
+*.wav
+*.mp3
+*.ogg
+*.h5
+*.pth
+*.pt
+*.pickle
+*.pkl
+*.zip
+*.tar
+*.gz
+*.csv
+*.json
+# Credentials and tokens
+token.pickle
+credentials.json
+.settings/
+# OS files
+.DS_Store
+Thumbs.db
