@@ -1,3 +1,5 @@
+ <div align="center">
+   
 # 🚀 Voice Agent AI Receptionist: Conversational Booking & Automation Suite
 
 A modern AI-powered appointment receptionist and scheduler with full voice/chat dashboard, real-time Google Calendar integration, n8n workflow automation, live email notifications, and seamless VAPI voice calling.
@@ -71,22 +73,27 @@ VOICE_AGENT_PROJECT/
 ## ⚡ Quick Start
 
 1. **Clone the repo:**
+   ```bash
       git clone https://github.com/your_username/voice-agent-project.git
+   ```
    cd voice-agent-project
-2. **Install dependencies:**
+   
+3. **Install dependencies:**
      python -m venv venv
      source venv/bin/activate # or venv\Scripts\activate on Windows
+   ```bash
      pip install -r requirements.txt
+   ```
 3.3. **Configure Google API:**
-   - Place your `credentials.json` in the project root.
+  ## - Place your `credentials.json` in the project root.
 
-4. **Run n8n (for automation):**
-     n8n start 
-5. **Start the agent backend:**
+5. **Run n8n (for automation):**
+     ##  n8n start 
+6. **Start the agent backend:**
     python main_pipeline.py
 
-6. **Open Dashboard:**
-- Go to [http://localhost:5000](http://localhost:5000)
+7. **Open Dashboard:**
+## - Go to [http://localhost:5000](http://localhost:5000)
 - Start a conversation with voice or text, book appointments hands-free!
 
 ---
