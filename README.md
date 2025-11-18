@@ -135,6 +135,8 @@ VOICE_AGENT_PROJECT/
 
 ## 🧑‍💻 Developer Credits
 
+**Mohammed Aslam**
+
 ## 🏅 Special Thanks
 
 - **[Ollama](https://ollama.com/)** — Local LLM for instant conversation
