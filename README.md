@@ -151,5 +151,5 @@ VOICE_AGENT_PROJECT/
 
 ## 🛡️ License
 
-MIT (or your chosen license)
+MIT 
 
